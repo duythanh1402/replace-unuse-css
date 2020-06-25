@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="vi">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+  <script src="https://cdn.tgdd.vn/v2015/Scripts/desktop/detectie/html5shiv.js"></script>
+  <script src="https://cdn.tgdd.vn/v2015/Scripts/desktop/detectie/respond.min.js"></script>
+<![endif]-->
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+        <meta http-equiv="Pragma" content="no-cache"/>
+        <meta http-equiv="Expires" content="0"/>
+        <title>Giỏ hàng của bạn</title>
+        <meta content="INDEX,FOLLOW" name="robots"/>
+        <meta name="viewport" content="width=device-width"/>
+        <meta name="copyright" content="Công ty Cổ phần Thế Giới Di Động"/>
+        <meta name="author" content="Công ty Cổ phần Thế Giới Di Động"/>
+        <meta http-equiv="audience" content="General"/>
+        <meta name="resource-type" content="Document"/>
+        <meta name="distribution" content="Global"/>
+        <meta name="revisit-after" content="1 days"/>
+        <meta name="GENERATOR" content="Công ty Cổ phần Thế Giới Di Động"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+        <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+        <link href="/favicon.ico" rel="apple-touch-icon"/>
+        <link href="/favicon.ico" rel="apple-touch-icon-precomposed"/>
+        <meta property="og:site_name" content="Thegioididong.com"/>
+        <meta property="og:type" content="website"/>
+        <meta property="og:locale" content="vi_VN"/>
+        <meta property="fb:pages" content="214993791879039"/>
+        <meta http-equiv="x-dns-prefetch-control" content="on">
+        <link rel="dns-prefetch" href="https://cdn.tgdd.vn/">
+        <style>
+            /* 02:43:37 05/06/2020 */
+            * {
+                margin: 0;
+                padding: 0
+            }
+
+            body {
+                min-width: 1024px;
+                overflow-x: hidden
+            }
+
+            img {
+                border: 0
+            }
+
+            a {
+                text-decoration: none
+            }
+
+            ul,ol {
+                list-style: none
+            }
+
+            .clr {
+                clear: both
+            }
+
+            p {
+                -webkit-margin-before: 0;
+                -webkit-margin-after: 0;
+                -webkit-margin-start: 0;
+                -webkit-margin-end: 0;
+                text-rendering: geometricPrecision
+            }
+
+            input[type=text],input[type=tel],textarea {
+                -webkit-appearance: none
+            }
+
+            body,input,button,option,textarea,label,legend,h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
+                font: 14px/18px Helvetica,Arial,'DejaVu Sans','Liberation Sans',Freesans,sans-serif;
+                color: #333;
+                outline: none;
+                zoom:1}
+
+            header {
+                position: absolute;
+                top: 0;
+                min-width: 1024px;
+                background: #fed700;
+                width: 100%;
+                height: 55px;
+                z-index: 3
+            }
+
+            section {
+                max-width: 1200px;
+                width: 100%;
+                min-width: 980px;
+                margin: 55px auto 0;
+                position: relative
+            }
+
+            .wrap-main {
+                max-width: 1200px;
+                min-width: 1024px;
+                width: 100%;
+                height: 55px;
+                background: #000;
+                margin: auto;
+                position: relative;
+                display: block
+            }
+
+            .logo {
+                float: left;
+                width: 165px;
+                display: block;
+                padding: 14px 0 11px 5px
+            }
+

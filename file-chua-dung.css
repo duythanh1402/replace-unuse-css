@@ -1,0 +1,14 @@
+            footer {
+                width: 100%;
+                min-width: 1024px;
+                margin: 0 auto;
+                background: #fff;
+                overflow: hidden;
+                clear: both
+            }
+
+            .logo a {
+                display: block;
+                overflow: hidden
+            }
+            
